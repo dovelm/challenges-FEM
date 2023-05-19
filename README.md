@@ -27,7 +27,7 @@ All my challenges finished od Frontend mentor  😍
 
 [Single price grid component master](https://dusvimarin.github.io/FEM-single-price-grid-component-master/)
 
-[Qr code component main]((https://dusvimarin.github.io/FEM-qr-code-component-main/)
+[Qr code component main](https://dusvimarin.github.io/FEM-qr-code-component-main/)
 
 
 ### Pages:
