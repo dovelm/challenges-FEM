@@ -29,7 +29,7 @@ All my challenges finished od Frontend mentor  😍
 
 [Qr code component main](https://dovelym.github.io/FEM-qr-code-component-main/)
 
-[Product preview card component main](https://github.com/dovelym/FEM-product-preview-card-component-main/)
+[Product preview card component main](https://dovelym.github.io/FEM-product-preview-card-component-main/)
 
 
 ### Pages:
