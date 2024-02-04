@@ -28,7 +28,8 @@ All my challenges finished od Frontend mentor  😍
 [Single price grid component master](https://dovelym.github.io/FEM-single-price-grid-component-master/)
 
 [Qr code component main](https://dovelym.github.io/FEM-qr-code-component-main/)
-[Product preview card component main](https://github.com/dovelym/FEM-product-preview-card-component-main)
+
+[Product preview card component main](https://github.com/dovelym/FEM-product-preview-card-component-main/)
 
 
 ### Pages:
