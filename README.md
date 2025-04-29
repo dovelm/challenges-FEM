@@ -43,8 +43,7 @@ All my challenges finished od Frontend mentor  😍
 [Intro component with signup form master](https://dovelm.github.io/FEM-intro-component-with-signup-form-master/)
 
 [Ping coming soon page master](https://dovelm.github.io/FEM-ping-coming-soon-page-master/)
-
-
+\
 
 ### LEVEL 👉  JUNIOR 🧡
 
