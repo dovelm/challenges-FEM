@@ -46,7 +46,7 @@ All my challenges finished od Frontend mentor  😍
 
 
 
-### LEVEL 👉  JUNIOR :orange_heart
+### LEVEL 👉  JUNIOR 🧡
 
 [FEM-huddle-landing-page-with-curved-sections-master](https://dovelm.github.io/FEM-huddle-landing-page-with-curved-sections-master/)
 
