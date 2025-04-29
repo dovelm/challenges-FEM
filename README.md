@@ -42,7 +42,7 @@ All my challenges finished od Frontend mentor  😍
 
 [Ping coming soon page master](https://dovelm.github.io/FEM-ping-coming-soon-page-master/)
 
-[FEM-huddle-landing-page-with-curved-sections-master] (https://dovelm.github.io/FEM-huddle-landing-page-with-curved-sections-master/)
+[FEM-huddle-landing-page-with-curved-sections-master](https://dovelm.github.io/FEM-huddle-landing-page-with-curved-sections-master/)
 
 
 
