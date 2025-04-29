@@ -31,6 +31,8 @@ All my challenges finished od Frontend mentor  😍
 
 [Product preview card component main](https://dovelm.github.io/FEM-product-preview-card-component-main/)
 
+[interactive-rating-component-main](https://dovelm.github.io/FEM-interactive-rating-component-main/)
+
 
 ### Pages:
 
