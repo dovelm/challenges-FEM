@@ -33,6 +33,12 @@ All my challenges finished od Frontend mentor  😍
 
 [interactive-rating-component-main](https://dovelm.github.io/FEM-interactive-rating-component-main/)
 
+[FEM-blog-preview-card-main](https://dovelm.github.io/FEM-blog-preview-card-main/)
+
+[FEM-recipe-page-main](https://dovelm.github.io/FEM-recipe-page-main/)
+
+[FEM-social-links-profile-main](https://dovelm.github.io/FEM-social-links-profile-main/)
+
 
 ### Pages:
 
@@ -47,6 +53,8 @@ All my challenges finished od Frontend mentor  😍
 ### LEVEL 👉  JUNIOR 🧡
 
 [FEM-huddle-landing-page-with-curved-sections-master](https://dovelm.github.io/FEM-huddle-landing-page-with-curved-sections-master/)
+
+[FEM-results-summary-component-main](https://dovelm.github.io/FEM-results-summary-component-main/)
 
 
 
